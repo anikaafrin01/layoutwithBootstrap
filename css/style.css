@@ -1,0 +1,19 @@
+.header, .hero, .body, .bar, .footer{
+	background-color: mediumpurple;
+	padding: 10px 0;
+	margin-bottom: 10px;
+
+}
+
+
+.box{
+	margin-bottom: 4px;
+	min-height: 80px;
+	background-color: indianred;
+	border:5px solid black;
+	font-size: 40px;
+	color: white;
+}
+.silver{
+	background-color: blue;
+}
